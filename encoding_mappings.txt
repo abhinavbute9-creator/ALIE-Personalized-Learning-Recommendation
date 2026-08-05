@@ -1,0 +1,84 @@
+code_module
+  AAA -> 0
+  BBB -> 1
+  CCC -> 2
+  DDD -> 3
+  EEE -> 4
+  FFF -> 5
+  GGG -> 6
+
+code_presentation
+  2013B -> 0
+  2013J -> 1
+  2014B -> 2
+  2014J -> 3
+
+gender
+  F -> 0
+  M -> 1
+
+region
+  East Anglian Region -> 0
+  East Midlands Region -> 1
+  Ireland -> 2
+  London Region -> 3
+  North Region -> 4
+  North Western Region -> 5
+  Scotland -> 6
+  South East Region -> 7
+  South Region -> 8
+  South West Region -> 9
+  Wales -> 10
+  West Midlands Region -> 11
+  Yorkshire Region -> 12
+
+highest_education
+  A Level or Equivalent -> 0
+  HE Qualification -> 1
+  Lower Than A Level -> 2
+  No Formal quals -> 3
+  Post Graduate Qualification -> 4
+
+imd_band
+  0-10% -> 0
+  10-20% -> 1
+  20-30% -> 2
+  30-40% -> 3
+  40-50% -> 4
+  50-60% -> 5
+  60-70% -> 6
+  70-80% -> 7
+  80-90% -> 8
+  90-100% -> 9
+  Unknown -> 10
+
+age_band
+  0-35 -> 0
+  35-55 -> 1
+  55<= -> 2
+
+disability
+  N -> 0
+  Y -> 1
+
+last_recommended_topic_proxy
+  dataplus -> 0
+  externalquiz -> 1
+  forumng -> 2
+  glossary -> 3
+  homepage -> 4
+  oucollaborate -> 5
+  oucontent -> 6
+  ouwiki -> 7
+  page -> 8
+  quiz -> 9
+  resource -> 10
+  subpage -> 11
+  url -> 12
+
+final_result
+  Distinction -> 0
+  Fail -> 1
+  Pass -> 2
+  Withdrawn -> 3
+
