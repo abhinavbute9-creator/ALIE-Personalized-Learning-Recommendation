@@ -1,0 +1,172 @@
+Education_Level,Course,Stream,Subject
+Grade 6-12,Grade 6,General,Mathematics
+Grade 6-12,Grade 6,General,Science
+Grade 6-12,Grade 6,General,English
+Grade 6-12,Grade 6,General,Social Science
+Grade 6-12,Grade 6,General,Hindi
+Grade 6-12,Grade 7,General,Mathematics
+Grade 6-12,Grade 7,General,Science
+Grade 6-12,Grade 7,General,English
+Grade 6-12,Grade 7,General,Social Science
+Grade 6-12,Grade 7,General,Hindi
+Grade 6-12,Grade 8,General,Mathematics
+Grade 6-12,Grade 8,General,Science
+Grade 6-12,Grade 8,General,English
+Grade 6-12,Grade 8,General,Social Science
+Grade 6-12,Grade 8,General,Hindi
+Grade 6-12,Grade 9,General,Mathematics
+Grade 6-12,Grade 9,General,Science
+Grade 6-12,Grade 9,General,English
+Grade 6-12,Grade 9,General,Social Science
+Grade 6-12,Grade 9,General,Computer Basics
+Grade 6-12,Grade 10,General,Mathematics
+Grade 6-12,Grade 10,General,Science
+Grade 6-12,Grade 10,General,English
+Grade 6-12,Grade 10,General,Social Science
+Grade 6-12,Grade 10,General,Computer Basics
+Grade 6-12,Grade 11,Science,Physics
+Grade 6-12,Grade 11,Science,Chemistry
+Grade 6-12,Grade 11,Science,Mathematics
+Grade 6-12,Grade 11,Science,Biology
+Grade 6-12,Grade 11,Science,English
+Grade 6-12,Grade 11,Commerce,Accountancy
+Grade 6-12,Grade 11,Commerce,Business Studies
+Grade 6-12,Grade 11,Commerce,Economics
+Grade 6-12,Grade 11,Commerce,Mathematics
+Grade 6-12,Grade 11,Commerce,English
+Grade 6-12,Grade 11,Arts,History
+Grade 6-12,Grade 11,Arts,Political Science
+Grade 6-12,Grade 11,Arts,Geography
+Grade 6-12,Grade 11,Arts,Sociology
+Grade 6-12,Grade 11,Arts,English
+Grade 6-12,Grade 12,Science,Physics
+Grade 6-12,Grade 12,Science,Chemistry
+Grade 6-12,Grade 12,Science,Mathematics
+Grade 6-12,Grade 12,Science,Biology
+Grade 6-12,Grade 12,Science,English
+Grade 6-12,Grade 12,Commerce,Accountancy
+Grade 6-12,Grade 12,Commerce,Business Studies
+Grade 6-12,Grade 12,Commerce,Economics
+Grade 6-12,Grade 12,Commerce,Mathematics
+Grade 6-12,Grade 12,Commerce,English
+Grade 6-12,Grade 12,Arts,History
+Grade 6-12,Grade 12,Arts,Political Science
+Grade 6-12,Grade 12,Arts,Geography
+Grade 6-12,Grade 12,Arts,Sociology
+Grade 6-12,Grade 12,Arts,English
+Diploma,Diploma in Computer Science,Computer Science,Programming Fundamentals
+Diploma,Diploma in Computer Science,Computer Science,Data Structures
+Diploma,Diploma in Computer Science,Computer Science,DBMS
+Diploma,Diploma in Computer Science,Computer Science,Web Development
+Diploma,Diploma in Computer Science,Computer Science,Computer Networks
+Diploma,Diploma in Computer Science,Computer Science,Operating Systems
+Diploma,Diploma in Mechanical Engineering,Mechanical,Engineering Mechanics
+Diploma,Diploma in Mechanical Engineering,Mechanical,Thermodynamics
+Diploma,Diploma in Mechanical Engineering,Mechanical,Machine Design
+Diploma,Diploma in Mechanical Engineering,Mechanical,Manufacturing Processes
+Diploma,Diploma in Mechanical Engineering,Mechanical,Strength of Materials
+Diploma,Diploma in Mechanical Engineering,Mechanical,Fluid Mechanics
+Diploma,Diploma in Civil Engineering,Civil,Surveying
+Diploma,Diploma in Civil Engineering,Civil,Structural Analysis
+Diploma,Diploma in Civil Engineering,Civil,Building Materials
+Diploma,Diploma in Civil Engineering,Civil,Concrete Technology
+Diploma,Diploma in Civil Engineering,Civil,Geotechnical Engineering
+Diploma,Diploma in Civil Engineering,Civil,Transportation Engineering
+Diploma,Diploma in Electronics Engineering,Electronics,Circuit Theory
+Diploma,Diploma in Electronics Engineering,Electronics,Digital Electronics
+Diploma,Diploma in Electronics Engineering,Electronics,Microprocessors
+Diploma,Diploma in Electronics Engineering,Electronics,Communication Systems
+Diploma,Diploma in Electronics Engineering,Electronics,Electronic Devices
+Diploma,Diploma in Electronics Engineering,Electronics,Control Systems
+Undergraduate,BTech Computer Science,Computer Science,OOP
+Undergraduate,BTech Computer Science,Computer Science,DBMS
+Undergraduate,BTech Computer Science,Computer Science,Operating Systems
+Undergraduate,BTech Computer Science,Computer Science,Computer Networks
+Undergraduate,BTech Computer Science,Computer Science,Data Structures
+Undergraduate,BTech Computer Science,Computer Science,Algorithms
+Undergraduate,BTech Computer Science,Computer Science,Software Engineering
+Undergraduate,BTech Computer Science,Computer Science,Web Technologies
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Machine Learning
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Deep Learning
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Statistics
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,OOP
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,DBMS
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Natural Language Processing
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Computer Vision
+Undergraduate,BTech Artificial Intelligence,Artificial Intelligence,Reinforcement Learning
+Undergraduate,BTech Mechanical Engineering,Mechanical,Thermodynamics
+Undergraduate,BTech Mechanical Engineering,Mechanical,Fluid Mechanics
+Undergraduate,BTech Mechanical Engineering,Mechanical,Machine Design
+Undergraduate,BTech Mechanical Engineering,Mechanical,Manufacturing Processes
+Undergraduate,BTech Mechanical Engineering,Mechanical,Strength of Materials
+Undergraduate,BTech Mechanical Engineering,Mechanical,Heat Transfer
+Undergraduate,BTech Civil Engineering,Civil,Structural Engineering
+Undergraduate,BTech Civil Engineering,Civil,Geotechnical Engineering
+Undergraduate,BTech Civil Engineering,Civil,Transportation Engineering
+Undergraduate,BTech Civil Engineering,Civil,Surveying
+Undergraduate,BTech Civil Engineering,Civil,Concrete Technology
+Undergraduate,BTech Civil Engineering,Civil,Environmental Engineering
+Undergraduate,BTech Electronics,Electronics,Digital Signal Processing
+Undergraduate,BTech Electronics,Electronics,Microprocessors
+Undergraduate,BTech Electronics,Electronics,VLSI Design
+Undergraduate,BTech Electronics,Electronics,Communication Systems
+Undergraduate,BTech Electronics,Electronics,Control Systems
+Undergraduate,BTech Electronics,Electronics,Embedded Systems
+Undergraduate,MBBS,Medical,Anatomy
+Undergraduate,MBBS,Medical,Physiology
+Undergraduate,MBBS,Medical,Biochemistry
+Undergraduate,MBBS,Medical,Pathology
+Undergraduate,MBBS,Medical,Pharmacology
+Undergraduate,MBBS,Medical,Microbiology
+Undergraduate,MBBS,Medical,Forensic Medicine
+Undergraduate,LLB,Law,Constitutional Law
+Undergraduate,LLB,Law,Criminal Law
+Undergraduate,LLB,Law,Contract Law
+Undergraduate,LLB,Law,Law of Torts
+Undergraduate,LLB,Law,Jurisprudence
+Undergraduate,LLB,Law,Family Law
+Undergraduate,BBA,Business,Principles of Management
+Undergraduate,BBA,Business,Marketing Management
+Undergraduate,BBA,Business,Financial Accounting
+Undergraduate,BBA,Business,Business Economics
+Undergraduate,BBA,Business,Organizational Behavior
+Undergraduate,BBA,Business,Business Statistics
+Undergraduate,BCom,Commerce,Financial Accounting
+Undergraduate,BCom,Commerce,Business Law
+Undergraduate,BCom,Commerce,Economics
+Undergraduate,BCom,Commerce,Taxation
+Undergraduate,BCom,Commerce,Auditing
+Undergraduate,BCom,Commerce,Cost Accounting
+Undergraduate,BSc Science,Science,Physics
+Undergraduate,BSc Science,Science,Chemistry
+Undergraduate,BSc Science,Science,Mathematics
+Undergraduate,BSc Science,Science,Botany
+Undergraduate,BSc Science,Science,Zoology
+Postgraduate,MTech Computer Science,Computer Science,Advanced Algorithms
+Postgraduate,MTech Computer Science,Computer Science,Distributed Systems
+Postgraduate,MTech Computer Science,Computer Science,Cloud Computing
+Postgraduate,MTech Computer Science,Computer Science,Advanced DBMS
+Postgraduate,MTech Computer Science,Computer Science,Advanced Operating Systems
+Postgraduate,MTech Artificial Intelligence,Artificial Intelligence,Deep Learning
+Postgraduate,MTech Artificial Intelligence,Artificial Intelligence,Reinforcement Learning
+Postgraduate,MTech Artificial Intelligence,Artificial Intelligence,Advanced Natural Language Processing
+Postgraduate,MTech Artificial Intelligence,Artificial Intelligence,Advanced Computer Vision
+Postgraduate,MTech Artificial Intelligence,Artificial Intelligence,Advanced Machine Learning
+Postgraduate,MBA,Business,Strategic Management
+Postgraduate,MBA,Business,Financial Management
+Postgraduate,MBA,Business,Marketing Management
+Postgraduate,MBA,Business,Human Resource Management
+Postgraduate,MBA,Business,Operations Management
+Postgraduate,MD,Medical,Advanced Pathology
+Postgraduate,MD,Medical,Clinical Medicine
+Postgraduate,MD,Medical,Surgery
+Postgraduate,MD,Medical,Radiology
+Postgraduate,MD,Medical,Advanced Pharmacology
+Postgraduate,LLM,Law,Advanced Constitutional Law
+Postgraduate,LLM,Law,International Law
+Postgraduate,LLM,Law,Corporate Law
+Postgraduate,LLM,Law,Human Rights Law
+Postgraduate,MSc,Science,Advanced Physics
+Postgraduate,MSc,Science,Advanced Chemistry
+Postgraduate,MSc,Science,Advanced Mathematics
+Postgraduate,MSc,Science,Advanced Biology
